@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Suryansh7202@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/yubx2hyc](https://tinyurl.com/yubx2hyc)
+- 📄 Know about my experiences [https://bit.ly/Suryansh_Prajapati_Resume](https://bit.ly/Suryansh_Prajapati_Resume)
 
 - ⚡ Fun fact **I think I am funny**
 
