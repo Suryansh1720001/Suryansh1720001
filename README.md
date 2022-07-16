@@ -7,9 +7,7 @@
 
 - 📫 How to reach me **Suryansh7202@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/Suryansh_Prajapati_Resume](https://bit.ly/Suryansh_Prajapati_Resume)
-
-- ⚡ Fun fact **I think I am funny**
+- 📄 Know about my experiences [https://bit.ly/Suryansh_Prajapati_Resume](https://bit.ly/SuryanshResume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
