@@ -63,7 +63,7 @@
 
 <table>
    <tr>
-      <td rowspan=2>
+      <td rowspan=1>
          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryansh1720001&theme=dark" align="center"/>
       </td>
    </tr>
