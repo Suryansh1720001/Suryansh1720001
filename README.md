@@ -7,8 +7,8 @@
 <h3 align="center">My areas of Interest are App development, system administrator and Cyber Security. Energetic and passionate student. Want to use my talent and skills to grow and expand the company with scope of my constant improvement.</h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="20%">
 
-   - 🔭 I’m currently working on Android Development and pacticing DSA. 
-   - 🌱 I’m currently learning Android Dev.
+ <!--- 🌱 I’m currently learning Android Dev. -->
+   - 🔭 I’m currently working on Android Development and pacticing DSA.
    - 👯 I’m looking to collaborate on Open Source Contributions. 
    - 💬 Ask me about Problem-solving and DSA. 
    - 😄 Pronouns: he/him.
