@@ -13,11 +13,12 @@
    - 💬 Ask me about Problem-solving and DSA. 
    - 😄 Pronouns: he/him.
    - 📫 How to reach me **Suryansh7202@gmail.com**
+  
 
 
 [![@suryansh7202's Holopin board](https://holopin.me/suryansh7202)](https://holopin.io/@suryansh7202)
 
-  ## 📲 Connect with me on social media 
+  ## 📲 Connect with me on social media
  #### I'm a programmer and an insightful learner who is passionate about growing in teams with dreams.
  <img align='right' src="https://camo.githubusercontent.com/63abdc3407ab5749a6fa046151ee56433f7922da540e1aa8d3b5795200dde75f/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966" width="20%">
 <h3 align="left"><img src="https://user-images.githubusercontent.com/85965606/194889084-1bef1898-35cb-4db0-916c-9574c7a5aa9e.gif" height="50px" /> Let's be friends and get connected!!  </p></h3>
@@ -39,7 +40,7 @@
 ### ⚡Programming Languages & Tools 🌐 
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-
+ ![Profile views](https://gpvc.arturio.dev/Suryansh1720001)  
 
 
 
