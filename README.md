@@ -55,7 +55,7 @@
 </p>
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Suryansh1720001&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://ghactivity.mrayush.me/graph?username=Suryansh1720001&theme=react-dark&hide_border=true&area=true)
 
 
 
