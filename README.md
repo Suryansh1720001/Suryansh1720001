@@ -29,7 +29,7 @@
    <!-- ---------------------------------------------------------------- -->
     <a target="_blank"href="https://github.com/Suryansh1720001"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
    <a href="https://twitter.com/Suryansh7202"><img src="https://img.shields.io/badge/-TWITTER-1ca0f1?&style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-   <a target="_blank"href="https://www.linkedin.com/in/suryanshprajapati17/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+   <a target="_blank"href="https://www.linkedin.com/in/itssuryansh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
     <a target="_blank"href="https://www.instagram.com/_its_s.u.r.y.a.n.s.h?r=nametag"><img src="https://img.shields.io/badge/-INSTAGRAM-cc0099?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
    <!-- ---------------------------------------------------------------- -->
 </p>
