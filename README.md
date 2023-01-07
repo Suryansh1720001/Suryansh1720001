@@ -12,7 +12,7 @@
    - 👯 I’m looking to collaborate on Open Source Contributions. 
    - 💬 Ask me about Problem-solving and DSA. 
    - 😄 Pronouns: he/him.
-   - 📫 How to reach me **Suryansh7202@gmail.com**
+   - 📫 How to reach me **itssuryansh@gmail.com**
   
 
 
