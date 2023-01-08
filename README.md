@@ -65,7 +65,7 @@
 
 
 
-## Some facts 😄:
+## Some facts 🤠:
 
 <table>
    <tr>
