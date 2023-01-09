@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">My areas of Interest are App development, system administrator and Cyber Security. Energetic and passionate student. Want to use my talent and skills to grow and expand the company with scope of my constant improvement.</h3>
+<h3 align="center">My areas of Interest are Mobile Application development, system administrator and Cyber Security. Energetic and passionate student. Want to use my talent and skills to grow and expand the company with scope of my constant improvement.</h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="20%">
 
  <!--- 🌱 I’m currently learning Android Dev. -->
