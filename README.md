@@ -12,7 +12,6 @@
    - 👯 I’m looking to collaborate on Open Source Contributions. 
    - 💬 Ask me about Problem-solving and DSA. 
    - 😄 Pronouns: he/him.
-   - Check my [RESUME](https://drive.google.com/file/d/16YCL6ke_6jR7_fMEUxld-lNfrJKpy9te/view)
    - 📫 How to reach me **itssuryansh@gmail.com**
   
 
