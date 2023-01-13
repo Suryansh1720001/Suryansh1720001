@@ -1,6 +1,15 @@
-<h1 align="center">Hi 👋, I'm Suryansh Prajapati</h1>
+<!-- <h1 align="center">Hi 👋, I'm Suryansh Prajapati</h1> -->
 
-![Boost YOur BRand (1)](https://user-images.githubusercontent.com/85965606/180619618-e47ea34d-e523-483f-bfaa-37cf9ca53df7.png)
+<div>
+    <div align="center">
+        <a href="https://github.com/AyushAgnihotri2025">
+            <img
+                src="https://readme-typing-svg.herokuapp.com?color=%232f97c1&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Suryansh+Prajapati;🏫+Student;Android+Developer+📱;🧑‍💻Open-Source+Enthusiast;⌨️+Software+Engineer"
+            />
+        </a>
+    </div>
+
+![Boost YOur BRand By Suryansh Prajapati](https://user-images.githubusercontent.com/85965606/180619618-e47ea34d-e523-483f-bfaa-37cf9ca53df7.png)
  <div align="center">
         <a href="https://www.linkedin.com/in/itssuryansh/"><img height="20" width="70" src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
         <a href="mailto:itssuryanshprajapati@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
