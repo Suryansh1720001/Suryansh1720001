@@ -3,7 +3,7 @@
 ![Boost YOur BRand (1)](https://user-images.githubusercontent.com/85965606/180619618-e47ea34d-e523-483f-bfaa-37cf9ca53df7.png)
  <div align="center">
         <a href="https://www.linkedin.com/in/itssuryansh/"><img height="20" width="70" src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
-        <a href="mailto:itssuryansh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+        <a href="mailto:itssuryanshprajapati@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
         <a href="https://twitter.com/Suryansh7202"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
         <a href="https://github.com/Suryansh1720001"><img  height="22" width="81" src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
         <a href="https://www.instagram.com/_its_s.u.r.y.a.n.s.h?r=nametag"><img  height="20" width="88" src="https://img.shields.io/badge/-INSTAGRAM-cc0099?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -20,7 +20,7 @@
    - 👯 I’m looking to collaborate on Open Source Contributions. 
    - 💬 Ask me about Problem-solving and DSA. 
    - 😄 Pronouns: he/him.
-   - 📫 How to reach me **itssuryansh@gmail.com**
+   - 📫 How to reach me **itssuryanshprajapati@gmail.com**
   
 
 
