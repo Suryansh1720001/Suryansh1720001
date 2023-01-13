@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Suryansh Prajapati</h1>
 
 ![Boost YOur BRand (1)](https://user-images.githubusercontent.com/85965606/180619618-e47ea34d-e523-483f-bfaa-37cf9ca53df7.png)
-
+ <div align="center">
+        <a href="https://www.linkedin.com/in/itssuryansh/"><img height="20" width="70" src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
+        <a href="mailto:itssuryansh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+        <a href="https://twitter.com/Suryansh7202"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+        <a href="https://github.com/Suryansh1720001"><img  height="22" width="81" src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://www.instagram.com/_its_s.u.r.y.a.n.s.h?r=nametag"><img  height="20" width="88" src="https://img.shields.io/badge/-INSTAGRAM-cc0099?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+ </div>
+ 
 
 
 <h3 align="center">My areas of Interest are Mobile Application development, system administrator and Cyber Security. Energetic and passionate student. Want to use my talent and skills to grow and expand the company with scope of my constant improvement.</h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="20%">
+
 
  <!--- 🌱 I’m currently learning Android Dev. -->
    - 🔭 I’m currently working on Android Development and pacticing DSA.
@@ -18,7 +26,9 @@
 
 [![@suryansh7202's Holopin board](https://holopin.me/suryansh7202)](https://holopin.io/@suryansh7202)
 
-  ## 📲 Connect with me on social media
+<hr>
+
+<!--   ## 📲 Connect with me on social media
  #### I'm a programmer and an insightful learner who is passionate about growing in teams with dreams.
  <img align='right' src="https://camo.githubusercontent.com/63abdc3407ab5749a6fa046151ee56433f7922da540e1aa8d3b5795200dde75f/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966" width="20%">
 <h3 align="left"><img src="https://user-images.githubusercontent.com/85965606/194889084-1bef1898-35cb-4db0-916c-9574c7a5aa9e.gif" height="50px" /> Let's be friends and get connected!!  </p></h3>
@@ -26,13 +36,14 @@
    
 
 <p align="left">
-   <!-- ---------------------------------------------------------------- -->
-    <a target="_blank"href="https://github.com/Suryansh1720001"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-   <a href="https://twitter.com/Suryansh7202"><img src="https://img.shields.io/badge/-TWITTER-1ca0f1?&style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-   <a target="_blank"href="https://www.linkedin.com/in/itssuryansh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-    <a target="_blank"href="https://www.instagram.com/_its_s.u.r.y.a.n.s.h?r=nametag"><img src="https://img.shields.io/badge/-INSTAGRAM-cc0099?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-   <!-- ---------------------------------------------------------------- -->
-</p>
+    <a href="https://www.linkedin.com/in/itssuryansh/"><img height="20" width="70" src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
+        <a href="mailto:itssuryansh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+        <a href="https://twitter.com/Suryansh7202"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+        <a href="https://github.com/Suryansh1720001"><img  height="22" width="81" src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://www.instagram.com/_its_s.u.r.y.a.n.s.h?r=nametag"><img  height="20" width="88" src="https://img.shields.io/badge/-INSTAGRAM-cc0099?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p> -->
+
+
 
 
 
@@ -44,6 +55,7 @@
 
 ## 🪟 Profile Views 🔭
  ![Profile views](https://gpvc.arturio.dev/Suryansh1720001)  
+
 
 
 <br>
@@ -80,12 +92,22 @@
 <br/>
 
 
+<div>
+    <div align="center">
+        <a href="https://www.google.com/search?q=How+to+make+my+Internet+Connection+faster+%3F" target="_blank"><img src="https://cdn.mrayush.me/assets/readme/GitHub.gif" title="Loading..." height="100"/></a>
+        <p>Loading...</p>
+    </div>
+</div>
 
-<div align="center">
-  
+<!-- <hr> -->
+
+<div align="center"> 
+ 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
 </div>
 
 ![footer](https://user-images.githubusercontent.com/85965606/194885099-1fb2e3ef-4f76-4f5e-86d2-17823c92563d.png)
+
+
 
