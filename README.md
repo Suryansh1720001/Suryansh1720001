@@ -113,15 +113,7 @@
       <td><img src="https://github-readme-stats.vercel.app/api?username=Suryansh1720001&count_private=true&theme=dark&show_icons=true" align="center"/></td>
    </tr>
 </table>
-   
-    
-### My Github Stats 📊
-
-[![](https://raw.githubusercontent.com/Suryansh1720001/Suryansh1720001/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Suryansh1720001/Suryansh1720001/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Suryansh1720001/Suryansh1720001/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Suryansh1720001/Suryansh1720001/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Suryansh1720001/Suryansh1720001/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-    
-    
+       
 <br/>
 
 
