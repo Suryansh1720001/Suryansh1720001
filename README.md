@@ -122,12 +122,6 @@
 <br/>
 
 
-<div>
-    <div align="center">
-        <a href="https://github.com/Suryansh1720001" target="_blank"><img src="https://cdn.mrayush.me/assets/readme/GitHub.gif" title="Loading..." height="100"/></a>
-        <p>Loading...</p>
-    </div>
-</div>
 
 <!-- <hr> -->
 
