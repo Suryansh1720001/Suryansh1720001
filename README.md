@@ -33,7 +33,7 @@
    - 💬 Ask me about Problem-solving and DSA. 
    - 😄 Pronouns: he/him.
    - 📫 How to reach me **[Website](https://Suryansh1720001.github.io)**
-   - Check out my Blogs at [Medium](https://medium.com/@itssuryansh) and Don't forget to follow me.
+   - Check out my Blogs at [Medium](https://medium.com/@itssuryansh).
   
 
 
