@@ -63,7 +63,8 @@
 |S.No.|Open Source Program | Project |  Contribution Link|
 |--------|----|----|----|
 | 1 | Developer-Quiz | Android Application | [Project link](https://github.com/Suryansh1720001/Developer-Quiz) |
-| 2 | Developer-CheatSheet | CheatSheet | [Project link](https://github.com/Suryansh1720001/Developer-Cheatsheet) |
+| 2 | Taaveez | Android Application | [Project link](https://github.com/Suryansh1720001/Taaveez) |
+| 3 | Developer-CheatSheet | CheatSheet | [Project link](https://github.com/Suryansh1720001/Developer-Cheatsheet) |
     
 <!-- | 3 | Flag-Quiz | Android Application | [Project link](https://github.com/Suryansh1720001/Flag-Quiz) | -->
 
