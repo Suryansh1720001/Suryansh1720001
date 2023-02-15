@@ -83,7 +83,7 @@
 
 
 
-## 🪟 Profile Views 🔭
+## 🪟 Profile Views 
  ![Profile views](https://gpvc.arturio.dev/Suryansh1720001)  
 
 
