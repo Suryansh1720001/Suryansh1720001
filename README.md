@@ -58,7 +58,7 @@
    
 <br>    
 
-## 🧑‍💻 Open-Source Project Collaboration 😎
+## 🧑‍💻 Open-Source Project Collaboration 
     
 |S.No.|Open Source Program | Project |  Contribution Link|
 |--------|----|----|----|
