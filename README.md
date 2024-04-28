@@ -68,7 +68,15 @@
 | 3 | Developer-CheatSheet 📜 | CheatSheet | [Project link](https://github.com/Suryansh1720001/Developer-Cheatsheet) |
     
 <!-- | 3 | Flag-Quiz | Android Application | [Project link](https://github.com/Suryansh1720001/Flag-Quiz) | -->
+<br>
 
+## 📱 Play Store Application - Download ⬇️
+    
+|S.No.| Name | Live Link |
+|--------|----|----|
+| 1 | Taaveez | [Live link](https://play.google.com/store/apps/details?id=com.itssuryansh.taaveez) |
+| 2 | Device Info | [Live link](https://play.google.com/store/apps/details?id=com.information.device) |
+| 3 | Doc Scanner  | [Live link](https://play.google.com/store/apps/details?id=com.itssuryansh.docscanner) |
 
 <br>
 <hr>
