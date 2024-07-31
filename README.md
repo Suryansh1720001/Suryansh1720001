@@ -32,11 +32,9 @@
    - 👯 I’m looking to collaborate on Open Source Contributions. 
    - 💬 Ask me about Problem-solving and DSA. 
    - 😄 Pronouns: he/him.
+   -  - 📫 How to reach me **[Website](https://Suryansh1720001.github.io)** (NOT UPDATED)
    - 📜 Check out my Blogs at **[Medium](https://medium.com/@itssuryansh)**
   
-<!--
-   - 📫 How to reach me **[Website](https://Suryansh1720001.github.io)**
--->
 
 [![@suryansh7202's Holopin board](https://holopin.me/suryansh1720001)](https://holopin.io/@suryansh1720001)
 
